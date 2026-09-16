@@ -1,0 +1,1 @@
+A bakery system. The program displays the menu using printf and reads the item code and the quantity desired by the user. Finally, it calculates and displays the total amount to be paid using a switch-case statement.
